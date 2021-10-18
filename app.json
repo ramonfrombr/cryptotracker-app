@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "cryptotrack",
+    "slug": "cryptotrack",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "cryptotrack"
+}
